@@ -4,6 +4,10 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
+/* about click smooth scroll in location */
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     background: #080808 ; 
